@@ -33,7 +33,7 @@ void majorityElement(int arr[], int n)
 }
 int main()
 {
-	int n, arr[n],i;
+	int n, arr[100],i;
 	cout<<"Enter the size of array::";
 	cin>>n;
 	cout<<"Enter the element of array::";
