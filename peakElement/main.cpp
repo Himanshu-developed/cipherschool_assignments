@@ -36,7 +36,7 @@ int getPeak(int arr[],int n)
 
 int main() {
    peakElement obj;
-   int n=0, arr[n],i;
+   int n=0, arr[100],i;
    cout<<"Enter the size of array::";
    cin>>n;
    cout<<"Enter the elements of array::"<<endl;
